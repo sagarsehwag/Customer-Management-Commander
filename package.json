@@ -1,0 +1,22 @@
+{
+	"name": "customer-cli",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"preferGlobal": true,
+	"bin": "./commands.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"cli",
+		"node"
+	],
+	"author": "sagarsehwag",
+	"license": "ISC",
+	"dependencies": {
+		"commander": "^2.19.0",
+		"inquirer": "^6.2.2",
+		"mongoose": "^5.4.16"
+	}
+}
