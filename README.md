@@ -1,4 +1,4 @@
-# Customer Management CLI
+# Customer Management
 
 Command line interface for managing customers. Uses Mongoose(MongoDB), Commander.js and Inquirer.js
 
