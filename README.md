@@ -30,7 +30,7 @@ $ client-cli list
 
 Find Customers (find or f)
 ```sh
-$ client-cli find [NAME]
+$ client-cli find <NAME>
 ```
 
 Add Customer (add or a)
@@ -40,24 +40,13 @@ $ client-cli add
 
 Update Customer (update or u)
 ```sh
-$ client-cli update [_ID]
+$ client-cli update <_ID>
 ```
 
 Remove Customer (remove or r)
 ```sh
-$ client-cli remove [_ID]
+$ client-cli remove <_ID>
 ```
-
-## App Info
-
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
 
 ### License
 
