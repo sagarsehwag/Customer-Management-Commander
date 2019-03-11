@@ -3,7 +3,9 @@
 Command line interface fir managing customers. Uses Mongoose, COmmander.js and Inquirer.js
 
 ### Version
+```sh
 1.0.0
+```
 
 ## Usage
 
